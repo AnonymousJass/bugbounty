@@ -1,14 +1,6 @@
 # Web Penetration Testing
 
-This cheatsheet is built for Red Teamers and Penetration Testers in order to help them hunt for vulnerabilities. It is designed such that beginners can understand the fundamentals and professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, so we've performed and compiled this list with our experience. Please share it with your connections and send your queries and feedback directly to [Hacking Articles](https://twitter.com/hackinarticles).
-
-[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
-[1.6]: https://www.linkedin.com/company/hackingarticles/
-[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
-[1.4]: https://discord.com/invite/kyKvXwK4Bk
-[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
-[1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
+This cheatsheet is built for Red Teamers and Penetration Testers in order to help them hunt for vulnerabilities. It is designed such that beginners can understand the fundamentals and professionals can brush up their skills with the advanced options. There are multiple ways to perform all the mentioned tasks, so we've performed and compiled this list with our experience. Please share it with your connections and send your queries and feedback directly to [Hacking Articles]
 
 1. [XXE Injection](https://www.hackingarticles.in/comprehensive-guide-on-xxe-injection/)
 2. [CSRF](https://www.hackingarticles.in/understanding-the-csrf-vulnerability-a-beginners-guide/)
